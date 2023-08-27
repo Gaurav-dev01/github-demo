@@ -4,6 +4,7 @@ A simple demo repository to show the basic Git workflow
 ## Introduction
 
 ## Purpose
+Welcome to git platform.!
 
 ## Deployment
 
