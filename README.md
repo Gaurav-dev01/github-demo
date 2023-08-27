@@ -9,3 +9,7 @@ Welcome to git platform.!
 ## Deployment
 
 This is a simple web project, Deployment can ba on any web server server or even local file system.
+
+## Development
+
+This is just Git practice project
