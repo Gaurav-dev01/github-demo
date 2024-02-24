@@ -1,3 +1,5 @@
 Test Git Quick Start demo
 
 Adding changes before rebasing conflicts --- This changes are from master branch
+
+master-1 (added in master)
